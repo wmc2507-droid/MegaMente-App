@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "MegaMente",
-    "slug": "megamente-app",
+    "name": "Lógica Milion",
+    "slug": "logica-milion",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -12,16 +12,17 @@
       "backgroundColor": "#ffffff"
     },
     "android": {
-      "package": "com.wmc2507.megamente",
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/icon.png",
-        "backgroundColor": "#ffffff"
-      }
+      "package": "com.wmc2507.megamente"
     },
     "extra": {
       "eas": {
-        "projectId": "cd38fafb-5ca9-48a9-bfc7-3240ddd2899b"
+        "projectId": "51143875-683a-4618-9566-49f312a67ffd"
       }
-    }
+    },
+    "sdkVersion": "50.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ]
   }
 }
